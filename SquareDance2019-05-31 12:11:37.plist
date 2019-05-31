@@ -11,7 +11,11 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
+<<<<<<< HEAD
                     <string>https://huanghhhuang.github.io/iosUpload/SquareDance.ipa</string>
+=======
+                    <string>https://huanghhhuang.github.io/iosUpload/quareDance.ipa</string>
+>>>>>>> 1de220f0ffd5116ff0ab71de556725b6d7209ab9
                 </dict>
                 <dict>
                     <key>kind</key>
